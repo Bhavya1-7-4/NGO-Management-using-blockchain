@@ -1,3 +1,22 @@
+Description:
+A decentralized NGO management system implemented in Solidity, with the frontend interacting through Metamask and Truffle Ganache. This project allows for transparent and secure management of NGO activities on the blockchain.
+
+Table of Contents:
+
+Usage
+Contributing
+License
+
+Usage:
+
+Use the NGO Management UI to create, update, and view NGO activities.
+Transactions will be recorded securely on the Ethereum blockchain.
+Contributing:
+Feel free to contribute by opening issues or submitting pull requests. Refer to the CONTRIBUTING.md file for details.
+
+License:
+This project is licensed under the GNU General Public License v3.0.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
